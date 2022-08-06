@@ -355,7 +355,8 @@ failed:
                       ngx_close_socket_n " failed");
     }
 
-    return NGX_ERROR;
+//    return NGX_ERROR;
+    return WYF;
 }
 
 
