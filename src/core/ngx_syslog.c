@@ -356,7 +356,7 @@ failed:
     }
 
 //    return NGX_ERROR;
-    return WYF;
+    return WYF11111;
 }
 
 
